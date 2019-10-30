@@ -1,3 +1,8 @@
+<div align="center">
+  <strong>Wrapped of Adonis Websocket library.</strong>
+  <p>This repo contains a wrapped of AdonisJS websocket module, add compatibility with react native.</p>
+</div>
+
 <h1 align="center">Websocket Client</h1>
 
 <div align="center">🚀 (4KB gzipped)</div>
